@@ -12,6 +12,7 @@
 *   **Языки программирования:** JavaScript, TypeScript, HTML5, CSS3
 *   **Фреймворки и библиотеки:** React, React Router, Redux, Storybook
 *   **Инструменты разработки:** Git, Vite
+*   **Дизайн и UX:** Figma
 
 ### Контакты:
 *   Telegram: [@viceede](https://t.me/viceede)
