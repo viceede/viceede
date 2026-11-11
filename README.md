@@ -8,10 +8,10 @@
 
 ## Фронтенд-разработчик: JavaScript, TypeScript, React
 
-**Технологии и инструменты:**
+### Технологии и инструменты:
 *   **Языки программирования:** JavaScript, TypeScript, HTML5, CSS3
 *   **Фреймворки и библиотеки:** React, React Router, Redux, Storybook
 *   **Инструменты разработки:** Git, Vite
 
-**Контакты:**
+### Контакты:
 *   Telegram: @viceede
