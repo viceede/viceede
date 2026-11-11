@@ -14,4 +14,4 @@
 *   **Инструменты разработки:** Git, Vite
 
 ### Контакты:
-*   Telegram: @viceede
+*   Telegram: [@viceede](https://t.me/viceede)
