@@ -9,7 +9,8 @@
 ## Фронтенд-разработчик: JavaScript, TypeScript, React
 
 ### Технологии и инструменты:
-*   **Языки программирования:** JavaScript, TypeScript, HTML5, CSS3
+*   **Языки программирования:** JavaScript, TypeScript
+*   **Технологии вёрстки:** HTML5, CSS3
 *   **Фреймворки и библиотеки:** React, React Router, Redux, Storybook
 *   **Инструменты разработки:** Git, Vite
 *   **Дизайн и UX:** Figma
