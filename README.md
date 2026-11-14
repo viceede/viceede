@@ -15,5 +15,12 @@
 *   **Инструменты разработки:** Git, Vite
 *   **Дизайн и UX:** Figma
 
+### Личные проекты / проектная деятельность
+- [Weblarek](https://github.com/viceede/weblarek) - Web-Larёk — интернет-магазин товаров для веб-разработчиков с возможностью выбора товаров и оформления покупок.
+  - **Стек**: HTML, SCSS, TypeScript, Vite.
+  - Архитектура MVP (Model–View–Presenter).
+- [Stellar-burgers](https://github.com/viceede/stellar-burgers) - Космическая бургерная — SPA-приложение интернет-магазина, позволяющее собирать собственные бургеры из ингредиентов и оформлять заказы.
+  - **Стек**: React, TypeScript, Redux Toolkit, React Router.
+  - Управление глобальным состоянием, работа с REST API, защищённые маршруты, модальные окна, асинхронные запросы.
 ### Контакты:
 *   Telegram: [@viceede](https://t.me/viceede)
