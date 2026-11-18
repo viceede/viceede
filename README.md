@@ -11,7 +11,7 @@
 ### Технологии и инструменты:
 *   **Языки программирования:** JavaScript, TypeScript
 *   **Технологии вёрстки:** HTML5, CSS3
-*   **Фреймворки и библиотеки:** React, React Router, Redux, Storybook
+*   **Фреймворки и библиотеки:** React, React Router, Redux / Redux Toolkit, Storybook
 *   **Инструменты разработки:** Git, Vite
 *   **Дизайн и UX:** Figma
 
