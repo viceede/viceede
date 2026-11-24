@@ -16,6 +16,10 @@
 *   **Дизайн и UX:** Figma
 
 ### Личные проекты / проектная деятельность
+- [SkillSwap](https://github.com/viceede/SkillSwap_58_4) — платформа для обмена навыками и знаниями между пользователями. Позволяет находить людей для взаимного обучения, просматривать предложения навыков, добавлять их в избранное, предлагать обмен и управлять личным профилем.
+  - Tech Lead / Team Lead assistant проекта
+  - **Стек**: React, TypeScript, Redux Toolkit, React Router, Vite, CSS, Vitest, Playwright, Storybook
+  - Архитектура Feature-Sliced Design (FSD).
 - [Weblarek](https://github.com/viceede/weblarek) - Web-Larёk — интернет-магазин товаров для веб-разработчиков с возможностью выбора товаров и оформления покупок.
   - **Стек**: HTML, SCSS, TypeScript, Vite.
   - Архитектура MVP (Model–View–Presenter).
